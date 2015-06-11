@@ -2,9 +2,6 @@
 
 JSON Graph Format (JGF) is a simple interchange format for node/edge graphs.
 
-...
-
 | 0:0 | 1:0 |
 | d   | d   |
 | 0:2 | 1:2 |
-
