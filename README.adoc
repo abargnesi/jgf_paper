@@ -1,5 +1,0 @@
-JGF Paper
-=========
-
-A lightweight JSON format for interchanging one or more graphs.
-
