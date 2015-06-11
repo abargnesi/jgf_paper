@@ -1,6 +1,7 @@
 .JGF - JSON Schema
 [source,json]
 ----
+What?
 {
   "$schema": "http://json-schema.org/draft-04/schema",
   "oneOf": [
